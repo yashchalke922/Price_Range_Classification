@@ -18,8 +18,8 @@ Theory Faculty:
 
 Lab Faculty:
 1. Dr.Dhiraj Amin
-2. Prof.Neha Ashok
-3. Dr.Shubhangi Chavan
+2. Dr.Shubhangi Chavan
+3. Prof Neha Ashok
 Their guidance and support have been invaluable throughout this project.
 
 # *Project Title*: Price Range Classification using Natural Language Processing
